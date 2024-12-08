@@ -1,4 +1,4 @@
-# DUBDOMAIN TAKEOVER
+# SUBDOMAIN TAKEOVER
 
 Domain can use any cloud service 
 

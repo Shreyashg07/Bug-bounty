@@ -16,7 +16,9 @@ eg: * google.com * Password NOT test NOT example
 TIP : best encoder / decoder tool : crack station / base64
 ---
 **AUTOMATED WAY**
-1. GITDORKER 
+---
+### *GITDOKER* <br>
+---
 - install using git clone
 - go to directory
 ```bash
@@ -84,3 +86,6 @@ Tasks :
 3. Use tools like gitdorker or gitgraber
 
 OTHER TOOLS LIKE THIS : Trufflehog , gitgraber
+---
+
+### THANK YOU 
